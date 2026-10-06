@@ -1,0 +1,11 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"U2",1," Sensor de temperatura [TMP36]"
+"R3",1,"200 Ω Resistor"
+"PIEZO1",1," Piezo"
+"D2",1,"Vermelho LED"
+"T1",1," Transistor NPN (BJT)"
+"D1",1," Diodo"
+"R4",1,"1 kΩ Resistor"
+"3",1," Placa de ensaio pequena"
+"M1",1," Motor CC"
